@@ -1,9 +1,9 @@
 <h1>Analyzing Forensic Evidence <h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+
 
 <h2>Description</h2>
-In this lab, you will use P2 Commander to investigate an image of a hard drive to find forensic evidence without impacting the integrity of the data on the image. You will create an electronic case file showing the creation of a case, the addition of the evidence file provided to you, and you will save the case for later review. In this way, you will experience all of the steps necessary for a sound forensic investigation that will preserve the source and ensure the evidence is defensible and presentable in a court of law.
+In this lab, I used P2 Commander to investigate an image of a hard drive to find forensic evidence without impacting the integrity of the data on the image. I created an electronic case file showing the creation of a case, the addition of the evidence file which I had to save for later review. Using this method I experienced all of the steps necessary for a sound forensic investigation that will preserve the source and ensure the evidence is defensible and presentable in a court of law.
 <br />
 
 
@@ -22,32 +22,23 @@ In this lab, you will use P2 Commander to investigate an image of a hard drive t
 <h2>Lab Walkthrough:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+File Root: <br/>
+<img src="https://i.imgur.com/JLkcO35.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+ Analyzing Files: <br/>
+<img src="https://i.imgur.com/hwoa5Kl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sw0trpd.png"80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<img src="https://i.imgur.com/ZAiNtWM.png"80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/J9YDCfS.png"80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<img src="https://i.imgur.com/94OGFpm.png"80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+
 </p>
 
 <!--
