@@ -37,6 +37,10 @@ File Root: <br/>
 <img src="https://i.imgur.com/94OGFpm.png"80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
+<h2>Conclusion:</h2>
+
+In conclusion this lab helped me understand the importance of preserving data from a judicial standpoint.
+
 
 
 </p>
