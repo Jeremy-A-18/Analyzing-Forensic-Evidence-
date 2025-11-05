@@ -16,7 +16,7 @@ In this lab, I used P2 Commander to investigate an image of a hard drive to find
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> 
+- <b>Windows</b> 
 - <b>Virtualbox</b> 
 
 <h2>Lab Walkthrough:</h2>
